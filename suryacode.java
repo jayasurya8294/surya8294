@@ -7,6 +7,7 @@
  * Version 3 added the insert and remove methods. Changed the
  * add method to rely on insert.
  * @author scottm
+ *  assert all0sAnd1s(result);
  *
  */
 public class IntListVer3{
