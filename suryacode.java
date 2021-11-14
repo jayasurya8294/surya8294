@@ -24,6 +24,7 @@ public class IntListVer3{
      * Default constructor. Creates an empty list.
      */
     public IntListVer3(){
+	clearly
         //redirect to single int constructor
         this(DEFAULT_CAP);
         //other statments could go here.
